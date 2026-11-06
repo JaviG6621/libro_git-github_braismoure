@@ -4,3 +4,8 @@ def prueba_1():
     x = 10
     y = 20
     print(x + y)
+
+def prueba_2():
+    x = 100
+    y = 200
+    return x + y
